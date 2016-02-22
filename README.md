@@ -14,7 +14,7 @@ The application can be installed from [**Google Play**](https://play.google.com/
 
 ## Limitations:
 
-The codes for ContentProvider and DatabaseHelper are included as they're really common implementation and you can just integrate AR part into your project.   
+The codes for ContentProvider and DatabaseHelper are NOT included as they're really common implementation and you can just integrate AR part into your project.   
 
 
 ### Contributor:

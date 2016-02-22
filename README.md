@@ -2,12 +2,14 @@
 
 This Android App implements **augmented reality navigation** and **GIS trace log** for user to locate their objects, such as vehicle. 
 
-It is comprised of two major parts – *CameraOverlayView and preview for AR* and *GIS log by ContentProvider* to demonstrate the effects of augmented reality navigation and log storage.
+It is comprised of two major parts – *CameraOverlayView and Preview for AR* and *GIS log by ContentProvider* to demonstrate the effects of augmented reality navigation and log storage.
 
 ## Demo:
 The application can be installed from [**Google Play**](https://play.google.com/store/apps/details?id=com.yangsoft.parknav) .
 
-## Dependencies:
+## Preview:
+
+![Demo](https://lh3.ggpht.com/r1d5c454iRfS6OnoEXVFHPvC7Dti75m7Q_0n42NtrSOvJ6dNzqsc7wH31zKXJSU8ow=h900-rw)
 
 
 ## Limitations:
